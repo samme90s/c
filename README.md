@@ -1,3 +1,3 @@
-# cplusplus
+# c
 
 hello world
